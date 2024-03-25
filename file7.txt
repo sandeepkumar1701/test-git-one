@@ -1,1 +1,3 @@
 file7 line1
+file7 line2
+file7 line3
